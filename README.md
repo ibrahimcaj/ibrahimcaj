@@ -1,4 +1,4 @@
-# [Vanished](https://github.com/vanishedvan/vanishedvan)
+# Vanished
 
 ![Information](./assets/vanished_info.png)
 
