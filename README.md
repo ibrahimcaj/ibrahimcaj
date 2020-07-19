@@ -1,6 +1,6 @@
 # [Vanished](https://github.com/vanishedvan/vanishedvan)
 
-<img src="./assets/vanished_info.png" alt="Info" width="500" />
+![Information](./assets/vanished_info.png)
 
 Hello there! I am a software and game developer, with over 4 years of experience in programming in various different languages: **JavaScript**, **C#**, **Python**, **QBasic**; and in **HTML** and **CSS**. I am currently learning **React**.
 
