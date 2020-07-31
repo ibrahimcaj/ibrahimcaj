@@ -10,7 +10,7 @@ Check out some of my public repositories:
 [![Lumberjack](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=lumberjack)](https://github.com/vanishedvan/lumberjack)
 [![Random Value Generator](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=random-value-generator)](https://github.com/vanishedvan/random-value-generator)
 
-Check out some of my private source projects:
+Also check out some of my private source projects:
 
 - [Avoid](https://discord.gg/epic) - _A new 16-bit dungeon crawler game._
 - [Sapphire](https://sapphirebot.com) - _It's time to ditch Mee6 and Dyno. Sapphire is taking over the world!_
