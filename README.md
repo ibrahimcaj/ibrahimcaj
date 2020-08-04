@@ -1,6 +1,6 @@
 # Vanished
 
-Hello there! I am a software and game developer, with over 4 years of experience in programming in various different languages. I love to create new and funn stuff, and to play video games.
+Hello there! I am a software and game developer, with over 4 years of experience in programming in various different languages. I love to create new and fun stuff, and to play video games.
 
 ## Projects
 
