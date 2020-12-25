@@ -6,9 +6,9 @@ Hello there! I am a software and game developer, with over 4 years of experience
 
 Check out some of my public repositories:
 
-[![Aseprite Rich Presence](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=aseprite-rich-presence)](https://github.com/vanishedvan/aseprite-rich-presence)
-[![Lumberjack](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=lumberjack)](https://github.com/vanishedvan/lumberjack)
-[![Random Value Generator](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=random-value-generator)](https://github.com/vanishedvan/random-value-generator)
+[![Aseprite Rich Presence](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=aseprite-rich-presence&theme=nord)](https://github.com/vanishedvan/aseprite-rich-presence)
+[![Lumberjack](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=lumberjack&theme=nord)](https://github.com/vanishedvan/lumberjack)
+[![Random Value Generator](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=random-value-generator&theme=nord)](https://github.com/vanishedvan/random-value-generator)
 
 Also check out some of my private source projects:
 
@@ -36,6 +36,6 @@ Also check out some of my private source projects:
 
 My personal GitHub statistics!
 
-[![Vanished's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanishedvan&hide=issues,prs&count_private=true&show_owner=true&show_icons=true)](https://github.com/vanishedvan)
+[![Vanished's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanishedvan&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=nord)](https://github.com/vanishedvan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanishedvan&layout=compact&card_width=445)](https://github.com/vanishedvan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanishedvan&layout=compact&card_width=445&theme=nord)](https://github.com/vanishedvan)
