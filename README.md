@@ -1,41 +1,133 @@
-# Vanished
+<p align="center">
+    <a href="https://vanished.rocks/">
+        <img src="./assets/banners/VanishedBanner.png/" width="500px" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://vanished.rocks/">
+        <img src="./assets/icons/other/link-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/vanishedvan/">
+        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/vanishedvan/">
+        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
+    </a>
+</p>
 
-Hello there! I am a software and game developer, with over 4 years of experience in programming in various different languages. I love to create new and fun stuff, and to play video games.
+<hr />
+&nbsp;
 
-## Projects
+<h2 align="center">
+    Hello there! My name is <strong>Vanished</strong>.
+</h2>
+<p align="center">
+    I am a software and game developer, with over 4 years of experience in programming in various different languages. My favorite programming language is <strong>Node.js</strong>.
+</p>
+<p align="center">
+    I spend most of my days working on some projects, listening to music or playing some games. Some of my favorite projects that I have made recently are:
+    <a href="https://disgradient.vanished.rocks/">Disgradient</a>,
+    <a href="https://betterpog.vanished.rocks/">BetterPog</a>,
+    <a href="https://discord.gg/Pqav4CD/">BetterPog</a>,
+    <a href="https://discord.gg/h4SdDX6Qn6/">BMO</a>...
+</p>
 
-Check out some of my public repositories:
+<hr />
+&nbsp;
 
-[![Aseprite Rich Presence](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=aseprite-rich-presence&theme=nord)](https://github.com/vanishedvan/aseprite-rich-presence)
-[![Lumberjack](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=lumberjack&theme=nord)](https://github.com/vanishedvan/lumberjack)
-[![Random Value Generator](https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=random-value-generator&theme=nord)](https://github.com/vanishedvan/random-value-generator)
+<h2 align="center">
+    Here are my GitHub profile <strong>Stats</strong>!
+</h2>
+<p align="center">
+    Check out my personal GitHub profile activity statistics:
+</p>
 
-Also check out some of my private source projects:
+&nbsp;
 
-- [Avoid](https://discord.gg/epic) - _A new 16-bit dungeon crawler game._
-- [Sapphire](https://sapphirebot.com) - _It's time to ditch Mee6 and Dyno. Sapphire is taking over the world!_
-- [Van](https://vanme.me) - _An easy to use multi-purpose Discord bot with a currency system, robbing system, leveling system and more!_
-- _And more!_
+<p align="center">
+    <a href="https://github.com/vanishedvan/">
+        <img src="https://github-readme-stats.vercel.app/api?username=vanishedvan&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/" />
+    </a>
+    <a href="https://github.com/vanishedvan/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanishedvan&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/" />
+    </a>
+</p>
 
-## Languages and Tools
+<hr />
+&nbsp;
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<h2 align="center">
+    And here are my favorite GitHub <strong>repositories</strong>!
+</h2>
+<p align="center">
+    Check out some of my public repositories:
+</p>
 
-<br />
-<br />
+&nbsp;
 
----
+<p align="center">
+    <a href="https://github.com/vanishedvan/random-value-generator/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=random-value-generator&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+    </a>
+    <a href="https://github.com/vanishedvan/aseprite-rich-presence/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=aseprite-rich-presence&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+    </a>
+    <a href="https://github.com/vanishedvan/lumberjack/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=lumberjack&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+    </a>
+    <a href="https://github.com/vanishedvan/aseprite-rich-presence/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=aseprite-rich-presence&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+    </a>
+</p>
 
-## GitHub Stats
+<hr />
+&nbsp;
 
-My personal GitHub statistics!
+<h2 align="center">
+    Languages and tools
+</h2>
+<p align="center">
+    Check out some of the languages and tools I know and use:
+</p>
 
-[![Vanished's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanishedvan&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=nord)](https://github.com/vanishedvan)
+&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanishedvan&layout=compact&card_width=445&theme=nord)](https://github.com/vanishedvan)
+<p align="center">
+    <a href="https://code.visualstudio.com/">
+        <img src="./assets/icons/tools/visualstudiocode.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://en.wikipedia.org/wiki/HTML5/">
+        <img src="./assets/icons/languages/html5.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://en.wikipedia.org/wiki/CSS/">
+        <img src="./assets/icons/languages/css3.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://www.sass-lang.com/">
+        <img src="./assets/icons/languages/sass.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://www.javascript.com/">
+        <img src="./assets/icons/languages/javascript.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://www.python.org/">
+        <img src="./assets/icons/languages/python.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://www.nodejs.org/">
+        <img src="./assets/icons/languages/nodejs.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://www.reactjs.org/">
+        <img src="./assets/icons/languages/react.svg/" width="25px" />
+    </a>
+    &nbsp;
+</p>
+
+<hr />
+&nbsp;
