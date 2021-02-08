@@ -55,9 +55,6 @@
     </a>
 </p>
 
-<hr />
-&nbsp;
-
 <h2 align="center">
     And here are my favorite GitHub <strong>repositories</strong>!
 </h2>
@@ -81,9 +78,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=aseprite-rich-presence&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
 </p>
-
-<hr />
-&nbsp;
 
 <h2 align="center">
     Languages and tools
