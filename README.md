@@ -65,14 +65,9 @@
 &nbsp;
 
 <p align="center">
-    <a href="https://github.com/vanishedvan/random-value-generator/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=random-value-generator&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
-    </a>
-    &nbsp;
     <a href="https://github.com/vanishedvan/aseprite-rich-presence/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=aseprite-rich-presence&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
-    &nbsp;
     <a href="https://github.com/vanishedvan/lumberjack/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=lumberjack&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
