@@ -34,7 +34,6 @@
     <a href="https://discord.gg/h4SdDX6Qn6/">BMO</a>...
 </p>
 
-<hr />
 &nbsp;
 
 <h2 align="center">
@@ -120,5 +119,4 @@
     &nbsp;
 </p>
 
-<hr />
 &nbsp;
