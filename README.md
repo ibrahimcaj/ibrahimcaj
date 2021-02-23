@@ -1,3 +1,6 @@
+<h1 align="center">
+    Hummina hummina hummina bazoooooing! *eyes pop out* AROOOOOOOOGA! *jaw drops tongue rolls out* WOOF WOOF WOOF WOOF WOOF
+</h1>
 <p align="center">
     <a href="https://vanished.rocks/">
         <img src="./assets/banners/VanishedBanner.png/" width="500px" />
