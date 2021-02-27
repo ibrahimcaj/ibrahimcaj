@@ -35,8 +35,8 @@
     I spend most of my days working on some projects, listening to music or playing some games. Some of my favorite projects that I have made recently are:
     <a href="https://disgradient.vanished.rocks/">Disgradient</a>,
     <a href="https://betterpog.vanished.rocks/">BetterPog</a>,
-    <a href="https://discord.gg/Pqav4CD/">BetterPog</a>,
-    <a href="https://discord.gg/h4SdDX6Qn6/">BMO</a>...
+    <a href="https://discord.gg/6cfBkPB96t/">Sandstone</a>,
+    <a href="https://discord.gg/CqMfhXS2/">Beepo</a>...
 </p>
 
 &nbsp;
