@@ -52,6 +52,9 @@
     <a href="https://github.com/vanishedvan/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanishedvan&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/" />
     </a>
+    <a href="https://github.com/vanishedvan/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=vanishedvan&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=006BD6&ring=006BD6&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    </a>
 </p>
 
 <h2 align="center">
