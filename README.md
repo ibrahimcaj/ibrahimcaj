@@ -24,14 +24,13 @@
     Hello there! My name is <strong>Vanished</strong>.
 </h2>
 <p align="center">
-    I am a software and game developer, with over 4 years of experience in programming in various different languages. My favorite programming language is <strong>Node.js</strong>.
+    I am a software and web developer, with over 4 years of experience in programming in various different languages, including <strong>Node.js</strong>.
 </p>
 <p align="center">
-    I spend most of my days working on some projects, listening to music or playing some games. Some of my favorite projects that I have made recently are:
+    I spend most of my days working on public and private projects. Some of the projects that I have worked on are:
     <a href="https://disgradient.vanished.rocks/">Disgradient</a>,
-    <a href="https://betterpog.vanished.rocks/">BetterPog</a>,
     <a href="https://discord.gg/6cfBkPB96t">Sandstone</a>,
-    <a href="https://discord.gg/CqMfhXS2">Beepo</a>...
+    <a href="https://discord.gg/ownershub">Beepo</a>...
 </p>
 
 &nbsp;
