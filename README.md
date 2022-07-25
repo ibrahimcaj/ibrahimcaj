@@ -4,16 +4,8 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://vanished.rocks/">
-        <img src="./assets/icons/other/link-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
     <a href="https://github.com/vanishedvan/">
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/vanishedvan/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
 </p>
 
@@ -24,7 +16,7 @@
     Hello there! My name is <strong>Vanished</strong>.
 </h2>
 <p align="center">
-    I am a software and web developer, with over 4 years of experience in programming in various different languages, including <strong>Node.js</strong>.
+    I am a software and web developer, with over 5 years of experience in programming in various different languages, including <strong>Node.js</strong>.
 </p>
 <p align="center">
     I spend most of my days working on public and private projects. Some of the projects that I have worked on are:
