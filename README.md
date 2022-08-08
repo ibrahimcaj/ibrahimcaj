@@ -16,7 +16,7 @@
     Hello there! My name is <strong>Vanished</strong>.
 </h2>
 <p align="center">
-    I am a software and web developer, with over 5 years of experience in programming in various different languages, including <strong>Node.js</strong>.
+    I am a 16 year old software and web developer, with over 5 years of experience in programming in various different languages, including <strong>Node.js</strong>.
 </p>
 <p align="center">
     I spend most of my days working on public and private projects. Some of the projects that I have worked on are:
