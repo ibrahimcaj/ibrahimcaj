@@ -9,71 +9,12 @@
     </a>
 </p>
 
-<hr />
-&nbsp;
-
-<h2 align="center">
-    Hello there! My name is <strong>Vanished</strong>.
-</h2>
-<p align="center">
-    I am a 16 year old software and web developer, with over 5 years of experience in programming in various different languages, including <strong>Node.js</strong>.
-</p>
-<p align="center">
-    I spend most of my days working on public and private projects. Some of the projects that I have worked on are:
-    <a href="https://disgradient.vanished.rocks/">Disgradient</a>,
-    <a href="https://discord.gg/6cfBkPB96t">Sandstone</a>,
-    <a href="https://discord.gg/ownershub">Beepo</a>...
-</p>
-
-&nbsp;
-
-<h2 align="center">
-    Here are my GitHub profile <strong>Stats</strong>!
-</h2>
-<p align="center">
-    Check out my personal GitHub profile activity statistics:
-</p>
-
 &nbsp;
 
 <p align="center">
-    <a href="https://github.com/vanishedvan/">
-        <img src="https://github-readme-stats.vercel.app/api?username=vanishedvan&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/" />
-    </a>
-    <a href="https://github.com/vanishedvan/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanishedvan&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=006bd6&hide_border=true/" />
-    </a>
     <a href="https://github.com/vanishedvan/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=vanishedvan&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=006BD6&ring=006BD6&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
-</p>
-
-<h2 align="center">
-    And here are my favorite GitHub <strong>repositories</strong>!
-</h2>
-<p align="center">
-    Check out some of my public repositories:
-</p>
-
-&nbsp;
-
-<p align="center">
-    <a href="https://github.com/vanishedvan/aseprite-rich-presence/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=aseprite-rich-presence&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
-    </a>
-    <a href="https://github.com/vanishedvan/random-value-generator/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=random-value-generator&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
-    </a>
-    <a href="https://github.com/vanishedvan/lumberjack/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanishedvan&repo=lumberjack&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
-    </a>
-</p>
-
-<h2 align="center">
-    Languages and tools
-</h2>
-<p align="center">
-    Check out some of the languages and tools I know and use:
 </p>
 
 &nbsp;
@@ -109,6 +50,10 @@
     &nbsp;
     <a href="https://www.reactjs.org/">
         <img src="./assets/icons/languages/react.svg/" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://www.flutter.dev//">
+        <img src="./assets/icons/languages/flutter.svg/" width="25px" />
     </a>
     &nbsp;
 </p>
