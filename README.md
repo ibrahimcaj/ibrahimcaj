@@ -52,7 +52,7 @@
         <img src="./assets/icons/languages/react.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://www.flutter.dev//">
+    <a href="https://www.flutter.dev/">
         <img src="./assets/icons/languages/flutter.svg/" width="25px" />
     </a>
     &nbsp;
