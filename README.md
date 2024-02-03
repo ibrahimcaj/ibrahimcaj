@@ -3,11 +3,6 @@
         <img src="./assets/banners/VanishedBanner.png/" width="500px" />
     </a>
 </p>
-<p align="center">
-    <a href="https://github.com/vanishedvan/">
-        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
-    </a>
-</p>
 
 &nbsp;
 
