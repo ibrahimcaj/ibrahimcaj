@@ -24,26 +24,6 @@
         <img src="./assets/icons/tools/visualstudiocode.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://en.wikipedia.org/wiki/HTML5/">
-        <img src="./assets/icons/languages/html5.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://en.wikipedia.org/wiki/CSS/">
-        <img src="./assets/icons/languages/css3.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://www.sass-lang.com/">
-        <img src="./assets/icons/languages/sass.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://www.javascript.com/">
-        <img src="./assets/icons/languages/javascript.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://www.python.org/">
-        <img src="./assets/icons/languages/python.svg/" width="25px" />
-    </a>
-    &nbsp;
     <a href="https://www.nodejs.org/">
         <img src="./assets/icons/languages/nodejs.svg/" width="25px" />
     </a>
