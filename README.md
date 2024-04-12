@@ -8,19 +8,19 @@
 
 <p align="center">
     <a href="https://code.visualstudio.com/">
-        <img src="./assets/icons/tools/visualstudiocode.svg/" width="25px" />
+        <img src="./assets/icons/visualstudiocode.svg/" width="25px" />
     </a>
     &nbsp;
     <a href="https://www.nodejs.org/">
-        <img src="./assets/icons/languages/nodejs.svg/" width="25px" />
+        <img src="./assets/icons/nodejs.svg/" width="25px" />
     </a>
     &nbsp;
     <a href="https://www.reactjs.org/">
-        <img src="./assets/icons/languages/react.svg/" width="25px" />
+        <img src="./assets/icons/react.svg/" width="25px" />
     </a>
     &nbsp;
     <a href="https://www.flutter.dev/">
-        <img src="./assets/icons/languages/flutter.svg/" width="25px" />
+        <img src="./assets/icons/flutter.svg/" width="25px" />
     </a>
     &nbsp;
 </p>
