@@ -1,6 +1,6 @@
 <p align="left">
-    <a href="https://github.com/vanishedvan/">
-        <img src="https://i.imgur.com/1WmtXLR.png" width="500px" />
+    <a href="https://github.com/ibrahimcaj/">
+        <img src="./snippet.svg" width="500px" />
     </a>
 </p>
 <p align="center">
