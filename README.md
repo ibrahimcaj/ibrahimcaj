@@ -1,5 +1,10 @@
 <p align="center">
     <a href="https://github.com/vanishedvan/">
+        <img src="https://i.imgur.com/1WmtXLR.png" width="500px" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/vanishedvan/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahimcaj&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=FFFFFF&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
 </p>
