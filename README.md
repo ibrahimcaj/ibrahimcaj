@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
     <a href="https://github.com/vanishedvan/">
         <img src="https://i.imgur.com/1WmtXLR.png" width="500px" />
     </a>
