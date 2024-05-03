@@ -4,4 +4,17 @@
     </a>
 </p>
 
-<img src="https://github-profile-snippet.vercel.app/?indent=4&theme=tokyo-night-dark&object=%7B%22hi%22%3A+0%7D" width="600px" />
+<img width="600px" src="https://github-profile-snippet.vercel.app/?indent=4&theme=tokyo-night-dark&object=var ibrahim = {
+    firstName: 'Ibrahim',
+    email: 'ibrahimcajlakovic1@gmail.com',
+    age: 18, // 26/02/2006
+    skills: [
+      'react',
+      'flutter',
+      'mongodb'
+    ],
+    hobbies: [
+      'design',
+      'electronics'
+    ]
+  }" />
